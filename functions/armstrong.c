@@ -1,5 +1,4 @@
-// Ansh Sonkusare 25070521082
-
+// Advait Hande 25070521095
 
 #include <stdio.h>
 #include <math.h>
